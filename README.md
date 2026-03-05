@@ -187,6 +187,7 @@ git commit -m "Editar 1.txt en master: Hola"
 Adios
 ```
 
+
 4. Hacer commit:
 
 ```powershell
