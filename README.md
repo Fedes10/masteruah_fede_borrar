@@ -51,7 +51,7 @@ New-Item README.md -ItemType File
 2. Abrirlo en VSCode y añadir explicaciones, comandos y capturas que vayas usando.
 
 > Nota: Aquí es donde documentarás **todo lo que haces en los siguientes pasos**.
-![alt text](image-2.png)
+![alt text](image.png)
 
 
 
@@ -63,7 +63,7 @@ New-Item README.md -ItemType File
 git add README.md
 git commit -m "Commit inicial: README creado con explicación de pasos"
 ```
-![alt text](image-3.png)
+
 
 
 
