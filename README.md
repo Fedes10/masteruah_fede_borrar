@@ -63,7 +63,7 @@ New-Item README.md -ItemType File
 git add README.md
 git commit -m "Commit inicial: README creado con explicación de pasos"
 ```
-
+![alt text](image-2.png)
 
 
 
