@@ -238,6 +238,7 @@ git tag v0.2
 git push origin v0.2
 ```
 
+![alt text](image-17.png)
 
 2. Borrar la rama local y remota:
 
