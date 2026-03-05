@@ -201,6 +201,7 @@ git checkout master
 git merge v0.2
 ```
 
+
 6. Resolver conflicto manualmente en **1.txt**, luego:
 
 ```powershell
