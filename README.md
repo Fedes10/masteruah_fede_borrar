@@ -161,6 +161,7 @@ git checkout master
 git merge v0.2
 git push origin master
 ```
+![alt text](image-11.png)
 
 
 
@@ -171,6 +172,7 @@ git push origin master
 ```
 Hola
 ```
+![alt text](image-12.png)
 
 2. Hacer commit:
 
