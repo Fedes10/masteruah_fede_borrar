@@ -180,6 +180,7 @@ Hola
 git add 1.txt
 git commit -m "Editar 1.txt en master: Hola"
 ```
+![alt text](image-13.png)
 
 3. Cambiar a v0.2, editar **1.txt** y añadir:
 ```
