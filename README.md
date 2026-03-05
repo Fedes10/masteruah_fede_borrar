@@ -139,6 +139,7 @@ git checkout -b v0.2
 ```powershell
 New-Item 2.txt -ItemType File
 ```
+![alt text](image-9.png)
 
 2. Añadirlo, hacer commit y push a la rama v0.2:
 
@@ -147,7 +148,7 @@ git add 2.txt
 git commit -m "Añadido 2.txt en v0.2"
 git push origin v0.2
 ```
-
+![alt text](image-10.png)
 
 
 
