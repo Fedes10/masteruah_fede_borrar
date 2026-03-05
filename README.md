@@ -108,13 +108,14 @@ git push origin master
 ```powershell
 git tag v0.1
 ```
+![alt text](image-6.png)
 
 2. Subir el tag al remoto:
 
 ```powershell
 git push origin v0.1
 ```
-
+![alt text](image-7.png)
 
 
 
