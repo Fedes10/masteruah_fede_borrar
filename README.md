@@ -126,8 +126,8 @@ git push origin v0.1
 ```powershell
 git checkout -b v0.2
 ```
+![alt text](image-8.png)
 
-Ahora cualquier cambio que hagas quedará en esa rama sin afectar a **master**.
 
 
 
