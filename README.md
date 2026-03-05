@@ -76,8 +76,7 @@ git commit -m "Commit inicial: README creado con explicación de pasos"
 ```powershell
 git push origin master
 ```
-
-Ahora tu README ya estará online en GitHub.
+![alt text](image-3.png)
 
 
 
@@ -89,6 +88,7 @@ Ahora tu README ya estará online en GitHub.
 ```powershell
 New-Item 1.txt -ItemType File
 ```
+![alt text](image-4.png)
 
 2. Añadirlo al control de Git y hacer commit:
 
@@ -97,7 +97,7 @@ git add 1.txt
 git commit -m "Añadido 1.txt"
 git push origin master
 ```
-
+![alt text](image-5.png)
 
 
 
