@@ -183,6 +183,7 @@ git commit -m "Editar 1.txt en master: Hola"
 ```
 Adios
 ```
+![alt text](image-12.png)
 
 4. Hacer commit:
 
@@ -191,6 +192,7 @@ git add 1.txt
 git commit -m "Editar 1.txt en v0.2: Adios"
 git push origin v0.2
 ```
+![alt text](image-11.png)
 
 5. Volver a **master** y hacer merge (aparecerá conflicto):
 
