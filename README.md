@@ -225,7 +225,7 @@ git push origin master
 git branch --merged
 git branch --no-merged
 ```
-
+![alt text](image-16.png)
 
 
 
@@ -237,6 +237,7 @@ git branch --no-merged
 git tag v0.2
 git push origin v0.2
 ```
+
 
 2. Borrar la rama local y remota:
 
